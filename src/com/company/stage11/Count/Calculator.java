@@ -15,6 +15,7 @@ public class Calculator {
 			System.out.println(num+"+"+num1+"="+(num+num1));
 		}else{
 			System.out.println("您输入额运算符号有误");
+
 		}
 	}
 
