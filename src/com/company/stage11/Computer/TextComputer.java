@@ -9,11 +9,11 @@ public class TextComputer {
         System.out.println("CPU");
         a.CPU = sc.next();
         System.out.println("主板");
-        a.mainboard = sc.next();
+        a.mainBoard = sc.next();
         System.out.println("显示器");
         a.display = sc.next();
         System.out.println("硬盘");
-        a.harddisk = sc.next();
+        a.hardDisk = sc.next();
         System.out.println("内存");
         a.memory = sc.next();
         a.showInfo();
